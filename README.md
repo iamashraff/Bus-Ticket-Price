@@ -51,6 +51,10 @@ Error Message (Validation)
 
 ![enter image description here](https://raw.githubusercontent.com/iamashraff/Bus-Ticket-Price/main/img/error_message.png?token=GHSAT0AAAAAAB5ZMXGIR6VHN2VCSFBSFM6IY66LIWA)
 
+
+## References
+[1] Ullman, L. (2014). PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide (4th ed.). Peachpit Press.
+
 ## Credit
 
 **Developed by :**  
